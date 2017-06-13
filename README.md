@@ -1,0 +1,1 @@
+Typescript coverage test with some features.
